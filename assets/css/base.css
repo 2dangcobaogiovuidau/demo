@@ -91,7 +91,7 @@ html {
     align-items: center;
     justify-content: center;
     animation: fadeIn linear 0.3s;
-    display: none;
+    display:none;
 }
 
 .modal__body {
